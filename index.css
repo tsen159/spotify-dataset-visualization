@@ -1,0 +1,55 @@
+.main-title {
+  font-family: Georgia;
+  font-size: 3em;
+}
+
+.title {
+  font-family: Georgia;
+  font-size: 2em;
+}
+.tick text {
+  font-size: 1.5em;
+  fill: #635F5D;
+}
+
+.tick line {
+  stroke: #C0C0BB;
+}
+
+.axis-label {
+  font-family: Arial;
+  font-size: 2.5em;
+  fill: #635F5D;
+}
+
+.legend {
+  font-size: 1.2em;
+}
+
+.menus {
+  font-family: Arial;
+  font-size: 1.4em;
+  left: 840px;
+  position: absolute;
+}
+
+.menus select {
+  font-size: 1.2rem;
+}
+
+.menus select option {
+  font-size: 1rem;
+}
+
+#menus_2_class {
+	top: 1100px;
+  left: 810px;
+}
+
+#menus_2 {
+	top: 1200px;
+}
+
+#menus_track {
+	top: 2300px;
+}
